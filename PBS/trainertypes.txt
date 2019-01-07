@@ -1,0 +1,199 @@
+# See the documentation on the wiki to learn how to edit this file.
+0,PkMnTRAINER_Male,PkMn Trainer,100,,,,Male,100
+1,PkMnTRAINER_Female,PkMn Trainer,100,,,,Female,100
+2,Punk,Punk,7,,,,Female,50
+3,YOUNGSTER,Youngster,4,,,,Male,20
+4,HIKER,Hiker,9,,,,Male,35
+5,BEAUTY,Posh,12,,,,Female,35
+6,FISHERMAN,Fisherman,9,,,,Male,35
+7,LADY,Lady,16,,,,Female,50
+8,NatureGirl,Nature Girl,11,,,,Female,35
+9,Exleader,Ex-Leader,17,Battle- Misc,Victory2,,Male,100
+10,Doxy,Doxy,7,,,,Female,35
+11,Solaris,Meteor Leader,30,Battle- Dramatic.mp3,Victory2,,Male,100
+12,BUGCATCHER,Pokemon,0,Battle- Wild2.mp3,,,Male,75
+13,WPunk,Wasteland Punk,12,Battle- Gym.mp3,Victory2,,Female,100
+14,DOCTOR,Dr.,32,Battle- Countdown.mp3,Victory2,,Male,100
+15,Sirius,Meteor Admin,22,Battle- Meteor Admin.mp3,Victory2,,Male,100
+16,BLACKBELT,Black Belt,11,,,,Male,35
+17,RANGERF,Ranger,13,,,,Female,50
+18,BENNETT,Lepidopterist,16,Battle- Misc.mp3,Victory2,,Male,100
+19,EL,Parson,24,Battle- Legendary.mp3,Victory2,,Male,100
+20,SERRA,Beauty Queen,35,Battle- Gym.mp3,Victory2,,Female,100
+21,Steelix,Pokemon,0,Battle- Misc.mp3,Victory2,,Male,75
+22,Noel,Prodigy,19,Battle- Gym.mp3,Victory2,,Male,100
+23,Radomus,Grandmaster,26,Battle- Gym.mp3,Victory2,,Male,100
+24,PkMnTRAINER_Male2,PkMn Trainer,100,,,,Male,100
+25,PkMnTRAINER_Female2,PkMn Trainer,100,,,,Female,100
+26,PANGORO,Pokemon,0,,,,Male,90
+27,KLINKLANG,Pokemon,0,,,,Male,50
+28,GENTLEMAN,Gentleman,20,,,,Male,50
+29,HARRIDAN,Harridan,36,,,,Male,90
+30,Cultist,Cultist,12,,,,Male,50
+31,Maxwell,Magma Kingpin,16,Battle- Misc.mp3,,,Male,90
+32,Archer,Aqua Mastermind,16,Battle- Misc.mp3,,,Male,90
+33,BATTLEGIRL,Battle Girl,12,,,,Female,50
+34,LUNA,Dark Dreamer,18,Battle- Gym.mp3,,,Female,100
+35,MAGMA2,Magma Gang,9,,,,Male,50
+36,BEARTIC,Pokemon,0,,,,Male,50
+37,EXPERT_Male,Elder,13,,,,Male,75
+38,Clown,Clown,13,,,,Male,35
+39,SAMSON,Strongman,30,Battle- Gym.mp3,Victory2,,Male,100
+40,AQUA2,Aqua Gang,9,,,,Male,50
+41,AQUA1,Aqua Gang,7,,,,Male,35
+42,MAGMA1,Magma Gang,7,,,,Male,35
+43,HAXORUS,Pokemon,0,,,,Mixed,90
+44,AsterKnight,Meteor Knight,15,Battle- Meteor Admin.mp3,Victory2,,Male,90
+45,EclipseDame,Meteor Dame,15,Battle- Meteor Admin.mp3,Victory2,,Female,90
+46,AceTrainerF,Ace Trainer,13,,,,Female,75
+47,AceTrainerM,Ace Trainer,13,,,,Male,75
+48,CHARLOTTE,Firebug,19,Battle- Gym.mp3,Victory2,,Female,100
+49,PkMnRANGER_Male,Ranger,13,,,,Male,50
+50,PkMnRANGER_Female,Ranger,13,,,,Female,50
+51,AVALUGG,Pokemon,0,Battle- Misc.mp3,,,Mixed,75
+52,PkMnTRAINER_NB,PkMn Trainer,3,,,,Mixed,100
+53,PkMnTRAINER_NB2,PkMn Trainer,3,,,,Mixed,100
+54,REBORN,Reborn,16,Battle- Misc.mp3,Victory2,,Male,100
+55,COOLTRAINER_Male,Hotshot,8,,,,Male,35
+56,COOLTRAINER_Female,Arcade Star,10,,,,Female,35
+57,MeteorAceM,Meteor Ace,17,Battle- Meteor.mp3,,,Male,75
+58,MeteorAceF,Meteor Ace,17,Battle- Meteor.mp3,,,Female,75
+59,AsterAce,Meteor Ace,17,Battle- Meteor Admin.mp3,Victory2,,Male,90
+60,BLAKE,Agent,20,Battle- Misc,Victory2,,Male,100
+61,PSYCHIC_Male,Psychic,12,,,,Male,50
+62,PSYCHIC_Female,Psychic,12,,,,Female,50
+63,GLITCH1,MIS5INGN0,1,RBY Battle- Trainer,RBY Victory Trainer.mp3,,Mixed,20
+64,GLITCH2,PKMNPKMNT,3,RBY Battle- Trainer,RBY Victory Trainer.mp3,,Mixed,20
+65,GLITCH3,OPKMN4X,3,RBY Battle- Trainer,RBY Victory Trainer.mp3,,Mixed,50
+66,GLITCH4,M1SS1NGO,7,RBY Battle- Trainer,RBY Victory Trainer.mp3,,Mixed,50
+67,LUCARIO,Pokemon,0,,,,Female,90
+68,TERRA,M3G4,24,RBY Battle- Champion.mp3,RBY Victory Trainer.mp3,,Female,100
+69,NWCultist,New World Cultist,15,Battle- Meteor.mp3,,,Male,75
+70,NWOrderly,New World Orderly,15,Battle- Meteor.mp3,,,Male,75
+71,MIGHTYENA,Pokemon,0,,,,Mixed,35
+72,TITANIA,Guardian,21,Battle- Gym.mp3,Victory2,,Female,100
+73,SWALOT,Pokemon,0,Battle- Misc.mp3,,,Mixed,90
+74,CIEL,Skydancer,32,Battle- Gym.mp3,Victory2,,Female,100
+75,NWOrderlyF,New World Orderly,15,Battle- Meteor.mp3,,,Female,75
+76,OrderlyF,Orderly,9,,,,Female,50
+77,NWCultistF,New World Cultist,15,Battle- Meteor.mp3,,,Female,75
+78,CultistF,Cultist,13,,,,Female,50
+79,SAMUROTT,Pokemon,0,Battle- Wild3.mp3,,,Mixed,90
+80,CUEBALL,Q Gang,9,,,,Male,75
+81,MASTERMIND,Mastermind,20,,,,Male,100
+82,KECLEON,Purple,0,Battle- Wild.mp3,,,Male,90
+83,Cain,Pretty Boy,14,Battle- Rival.mp3,Victory2,,Male,100
+84,Victoria,Apprentice,14,Battle- Rival.mp3,Victory2,,Female,100
+85,TechNerd,Techie,16,,,,Male,50
+86,StreetRat,Street Rat,2,,,,Male,20
+87,PoliceOfficer,Police Officer,13,,,,Male,50
+88,Casanova,Casanova,14,,,,Male,35
+89,MeteorGrunt,Meteor Grunt,10,Battle- Meteor.mp3,,,Male,35
+90,MeteorGrunt_090,Meteor Grunt,10,Battle- Meteor.mp3,,,Female,35
+91,Hotshot,Swag Jockey,19,Battle- Rival.mp3,Victory2,,Male,100
+92,MeteorGrunts,Meteor Grunts,10,Battle- Meteor.mp3,,,Mixed,50
+93,Leader,Cheer Captain,22,Battle- Gym.mp3,Victory2,,Female,100
+94,Pokemon,Pokemon,0,,,,Mixed,35
+95,ZEL,Meteor Admin,21,Battle- Meteor Admin.mp3,Victory2,,Male,100
+96,Leader_096,Head Instructor,23,Battle- Gym.mp3,Victory2,,Female,100
+97,Taka,Meteor Admin,16,Battle- Meteor Admin.mp3,Victory2,,Male,100
+98,Corey,Agent,23,Battle- Gym.mp3,Victory2,,Male,100
+99,Swarm,Pokemon,0,Battle- Wild.mp3,,,Mixed,50
+100,Orderly,Orderly,9,,,,Male,50
+101,Leader_101,Bookworm,17,Battle- Gym.mp3,Victory2,,Female,100
+102,Tribe,Pokemon,0,Battle- Wild.mp3,,,Mixed,75
+103,Leader_103,Entity,22,Battle- ReverseGym.mp3,Victory2,,Male,100
+104,Fiancee,Beau,26,,Victory2,,Female,100
+105,MeteorKnight,Meteor Knight,17,Battle- Meteor.mp3,,,Male,50
+106,MeteorDame,Meteor Dame,17,Battle- Meteor.mp3,,,Female,50
+107,Sensei,Sensei,17,Battle- Gym.mp3,Victory2,,Female,100
+108,Spectral,Spectral,0,Battle- Dramatic.mp3,Victory2,,Female,75
+109,KECLEONS,Kecleon,0,Battle- Wild.mp3,,,Mixed,50
+110,ARCLIGHT,DJ,13,Battle- Misc.mp3,Victory2,,Male,100
+111,ADRIENN,Visionary,14,Battle- Gym.mp3,Victory2,,Mixed,100
+112,TEST,Test Train,14,Battle- Gym.mp3,Victory2,,Mixed,100
+113,PREDATORS,Pokemon,0,Battle- Wild3.mp3,,,Mixed,90
+114,CORINROUGE,Dashing Rogue,21,,,,Male,100
+115,KNIGHT,Knight,14,,,,Male,70
+116,RESHIRAM,The Legendary,0,Battle- Legendary.mp3,Victory2,,Mixed,100
+117,ZEKROM,The Legendary,0,Battle- Legendary.mp3,Victory2,,Mixed,100
+118,TITANIA1,Guardian Princess,21,Battle- Gym.mp3,Victory2,,Female,100
+119,TITANIA2,Guardian Exile,21,Battle- Gym.mp3,Victory2,,Female,100
+120,AMARIA1,Flotsam,26,Battle- Gym.mp3,Victory2,,Female,100
+121,AMARIA2,Jetsam,26,Battle- Gym.mp3,Victory2,,Female,100
+122,GARCHOMP,Pokemon,0,Battle- Wild3.mp3,,,Mixed,100
+123,Taka2,Vagrant,16,Battle- Meteor Admin.mp3,Victory2,,Male,100
+124,BRELOOM,BreloomBot,0,Battle- Wild3.mp3,,,Mixed,100
+125,Victoria2,Sensei,20,Battle- Rival.mp3,Victory2,,Female,100
+126,VOLCARONA,Pokemon,0,Battle- Wild3.mp3,,,Mixed,100
+127,PYUKMUK,High King,0,Battle- Wild3.mp3,,,Mixed,100
+128,QMARK,???,26,Battle- ReverseGym.mp3,Victory2,,Mixed,100
+129,SANDY,Activist,18,Battle- Misc.mp3,Victory2,,Female,100
+130,HARDHAT,Hard Hat,20,Battle- Trainer3.mp3,,,Mixed,91
+131,HARDY,Rockstar,18,Battle- Gym.mp3,Victory2,,Male,100
+132,AGGRON,Pokemon,0,Battle- Wild3.mp3,,,Mixed,100
+133,GULPIN,Pokemon,0,Battle- Wild3.mp3,,,Mixed,100
+134,GUITARIST,Guitarist,19,Battle- Trainer3.mp3,,,Male,60
+205,Gambler,Gambler,91,Kanto Gym.mp3,Victory2,,Male,100
+206,HotShotDeveloper,Hotshot Developer,91,Heartbender.mp3,Victory2,,Male,99
+207,PKMN_Trainer,PKMN Trainer,91,Battle- Dramatic.mp3,Victory2,,Male,100
+209,Wasteland,Wasteland Guardian,100,Let It Go.mp3,Victory2,,Male,
+210,Twitch,Revenant,100,Battle- Helix.mp3,Victory2,,Male,
+211,CoMChampion,Champion,100,Zinnia Theme.mp3,Victory2,,Male,
+212,GymGuy,Gym Guy,100,X and Y Super Training! Remix.mp3,Victory2,,Male,95
+213,Mythic,Mythic,91,Hoenn Weather Trio Remix.mp3,Victory2,,Male,100
+214,FCorey,Agent,50,Battle- Gym.mp3,Victory2,,Male,100
+215,PokeGang,Pokemon,0,Battle- Legendary.mp3,Victory2,,Mixed,95
+216,PokeGang2,Pokemon,0,Battle- Legendary.mp3,Victory2,,Mixed,95
+217,FPkMnTRAINER_Male,PkMn Trainer,100,Pokemon XY Legendary Battle Remix.mp3,Victory2,,Male,
+218,FPkMnTRAINER_Female,PkMn Trainer,100,Pokemon XY Legendary Battle Remix.mp3,Victory2,,Female,
+219,FPkMnTRAINER_Male2,PkMn Trainer,100,Pokemon XY Legendary Battle Remix.mp3,Victory2,,Male,
+220,FPkMnTRAINER_Female2,PkMn Trainer,100,Pokemon XY Legendary Battle Remix.mp3,Victory2,,Female,
+221,FPkMnTRAINER_NB,PkMn Trainer,100,Pokemon XY Legendary Battle Remix.mp3,Victory2,,Mixed,
+222,FPkMnTRAINER_NB2,PkMn Trainer,100,Pokemon XY Legendary Battle Remix.mp3,Victory2,,Mixed,
+223,FJulia,Cheer Captain,50,Battle- Gym Original.mp3,Victory2,,Female,98
+224,FFlorinia,Head Instructor,50,Battle- Gym Original.mp3,Victory2,,Female,96
+225,FCorey2,Agent,50,Battle- Gym.mp3,Victory2,,Male,100
+226,FShelly,Bookworm,50,Battle- Gym Original.mp3,Victory2,,Female,98
+227,FShade,Entity,50,Battle- ReverseGym Original.mp3,Victory2,,Male,98
+228,FKiki,Sensei,91,Battle- Gym.mp3,Victory2,,Female,100
+229,FAya,Wasteland Punk,98,Battle- Gym Original.mp3,Victory2,,Female,
+230,FSerra,Beauty Queen,95,Battle- Gym Original.mp3,Victory2,,Female,89
+231,FNoel,Prodigy,91,Battle- Gym Original.mp3,Victory2,,Male,99
+232,FRadomus,Grandmaster,100,Battle- Gym Original.mp3,Victory2,,Male,
+233,FLuna,Dark Dreamer,100,Battle- Gym Original.mp3,,,Female,98
+234,FSamson,Strongman,100,Battle- Gym Original.mp3,Victory2,,Male,
+235,FCharlotte,Firebug,100,Battle- Gym Original.mp3,Victory2,,Female,
+236,FTerra,M3G4,100,RBY Battle- Champion.mp3,RBY Victory Trainer.mp3,,Female,
+237,FCiel,Skydancer,98,Battle- Gym Original.mp3,Victory2,,Female,
+238,FSigmund,Dr.,91,Battle- Countdown.mp3,Victory2,,Male,
+239,FSirius,Meteor Admin,95,Battle- Meteor Admin.mp3,Victory2,,Male,
+240,FCain,Pretty Boy,25,Battle- Rival.mp3,Victory2,,Male,91
+241,FFern,Swag Jockey,25,Battle- Rival.mp3,Victory2,,Male,91
+242,FVictoria,Apprentice,25,Battle- Rival.mp3,Victory2,,Female,91
+243,FCal,Ex-Leader,50,Battle- Misc,Victory2,,Male,100
+244,FRCal,Reborn,99,Battle- Misc.mp3,Victory2,,Male,
+245,FBlake,Agent,50,Battle- Misc,Victory2,,Male,100
+246,FSolaris,Meteor Leader,100,Battle- Dramatic.mp3,Victory2,,Male,
+247,FAmaria,Beau,100,Battle- Gym.mp3,Victory2,,Female,
+248,FTitania,Guardian,99,Battle- Gym.mp3,Victory2,,Female,
+249,Techlord,Techie,99,Rayquayza_Theme,Victory2,,Male,
+250,MeteorPhantom,Meteor Grunt,20,Battle- Misc,Victory2,,Male,100
+251,FAdrienn,Visionary,18,Battle- Gym Original.mp3,Victory2,,Mixed,100
+252,FMaxwell,Magma Kingpin,23,Team Magma and Aqua Boss Battle Remix v.II.mp3,,,Male,99
+253,FAme,League Admin,15,Pokémon XY Remix Vs. Champion Diantha.mp3,Victory2,,Female,100
+254,FCitrine,Legacy Trainer,10,Sinnoh Gym Leader Battle Remix.mp3,Victory2,,Female,98
+255,FArclight,DJ,16,Battle- Misc.mp3,Victory2,,Male,100
+256,Ody,Gentleman,10,Battle- Rival.mp3,Victry2,,Male,100
+257,Azery,Scrub Lord,10,Battle- Rival.mp3,Victry2,,Male,100
+258,IntSys,Screamo,10,Battle- Rival.mp3,Victry2,,Male,100
+259,Shia,Waste Guardian,10,Battle- Rival.mp3,Victry2,,Male,100
+260,Shinyrio,Breeder,10,Battle- Rival.mp3,Victry2,,Male,100
+261,Pyrr,Hothead,10,Battle- Rival.mp3,Victry2,,Male,100
+262,Dreamer,Swimmer,10,Battle- Rival.mp3,Victry2,,Male,100
+263,FTitania1,Guardian Princess,21,Battle- Gym.mp3,Victory2,,Female,100
+264,FTitania2,Guardian Exile,21,Battle- Gym.mp3,Victory2,,Female,100
+265,FAmaria1,Flotsam,26,Battle- Gym.mp3,Victory2,,Female,100
+266,FAmaria2,Jetsam,26,Battle- Gym.mp3,Victory2,,Female,100
+267,FHardy,Rockstar,18,Battle- Gym.mp3,Victory2,,Male,100
+268,FTaka,Vagrant,16,Battle- Meteor Admin.mp3,Victory2,,Male,100
